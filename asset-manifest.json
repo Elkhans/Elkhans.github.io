@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/elkhans.github.io/static/css/main.e3aa50db.css",
+    "main.js": "/elkhans.github.io/static/js/main.ea29acb7.js",
+    "static/js/453.ed3810f9.chunk.js": "/elkhans.github.io/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo2.png": "/elkhans.github.io/static/media/logo2.1436ee2e9a815a42b104.png",
+    "static/media/background.png": "/elkhans.github.io/static/media/background.d0a830bc23db130ba529.png",
+    "static/media/logo.png": "/elkhans.github.io/static/media/logo.cf0eeade72873125f54b.png",
+    "index.html": "/elkhans.github.io/index.html",
+    "main.e3aa50db.css.map": "/elkhans.github.io/static/css/main.e3aa50db.css.map",
+    "main.ea29acb7.js.map": "/elkhans.github.io/static/js/main.ea29acb7.js.map",
+    "453.ed3810f9.chunk.js.map": "/elkhans.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3aa50db.css",
+    "static/js/main.ea29acb7.js"
+  ]
+}
