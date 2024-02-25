@@ -1,8 +1,9 @@
 {
+  
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://elkhans/elkhans.github.io",
+  "homepage": "https://spectrumagencyaz.com",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
